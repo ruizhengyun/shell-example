@@ -1042,4 +1042,3 @@ fun 1 2 3 4 5 6 7 8 9 21 22
 - 标准输入文件(stdin)：stdin 的文件描述符为 0，Unix 程序默认从 stdin 读取数据
 - 标准输出文件(stdout)：stdout 的文件描述符为 1，Unix 程序默认向 stdout 输出数据
 - 标准错误文件(stderr)：stderr 的文件描述符为 2，Unix 程序会向 stderr 流中写入错误信息
->>>>>>> master
